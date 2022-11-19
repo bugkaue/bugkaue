@@ -28,7 +28,7 @@ I'm looking for new professional challenges looking for effectiveness in the mar
 </li>
 
 <li>
-I'm currently delving into front-end development
+I'm currently deepening front-end development
 </li>
 
 <br/>
